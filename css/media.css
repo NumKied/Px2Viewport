@@ -1,0 +1,22 @@
+@media (max-width: 991px) {
+    .main {
+        padding-left: 0;
+        background: url(../img/minBG.png);
+        color: #fff;
+    }
+    .main input {
+        height: 10vw;
+        width: 70vw;
+        border-radius: 50vw;
+        font-size: 5vw;
+    }
+    .main h1 {
+        margin-top: 9vw;
+    }
+    #result {
+        font-size: 5vw;
+    }
+    .main h2 {
+        font-size: 4vw;
+    }
+}

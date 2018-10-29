@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Nexa-Rust-Slab-Black-Shadow';
+    src: url('../fonts/NexaRustSlab-BlackShadow.woff2') format('woff2'),
+        url('../fonts/NexaRustSlab-BlackShadow.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+    font-family: 'Nexa-Rust-Slab-Black-Shadow';
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background: url(../img/minBG.png) center;
+	background-size: cover;
+    flex-direction: column;
+    color: #fff;
+}
+
+.main h1 {
+    margin-bottom: 7vw;
+    margin-top: 7vw;
+}
+
+.main input {
+    outline: none;
+    border: 0;
+    border-radius: 1.5vw;
+    height: 2vw;
+    font-size: 1.5vw;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#result {
+	font-size: 2.5vw;
+}
+
+.main h2 {
+    font-size: 1.5vw;
+}
+
+
