@@ -1,7 +1,7 @@
 @media (max-width: 991px) {
     .main {
         padding-left: 0;
-        background: url(../img/minBG.png);
+        background: url(../img/minBg.png);
         color: #fff;
     }
     .main input {
