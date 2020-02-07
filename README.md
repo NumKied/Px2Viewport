@@ -23,4 +23,5 @@ My contacts:
 <h2>License</h2>
 
 **The MIT License (MIT)**
+
 Copyright © 2020 NumKied
